@@ -2,23 +2,23 @@
     font-family: 'Nanum Gothic';
     font-weight: 300;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/taedonn/fonts-archive/NanumGothic/NanumGothicLight.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothicLight.otf');
 }
 @font-face {
     font-family: 'Nanum Gothic';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/taedonn/fonts-archive/NanumGothic/NanumGothic.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothic.otf');
 }
 @font-face {
     font-family: 'Nanum Gothic';
     font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/taedonn/fonts-archive/NanumGothic/NanumGothicBold.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothicBold.otf');
 }
 @font-face {
     font-family: 'Nanum Gothic';
     font-weight: 800;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/taedonn/fonts-archive/NanumGothic/NanumGothicExtraBold.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothicExtraBold.otf');
 }
