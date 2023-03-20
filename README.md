@@ -1,4 +1,4 @@
-# NanumGothic
+# Nanum Gothic
 
 [네이버 방문하기](https://hangeul.naver.com/font) · [폰트 다운로드](https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothic.zip)
 
