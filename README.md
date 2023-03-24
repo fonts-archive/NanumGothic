@@ -1,6 +1,6 @@
 # Nanum Gothic
 
-[Visit Source](https://hangeul.naver.com/font) · [Download Zip](https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothic.zip)
+[Visit Source](https://hangeul.naver.com/font)
 
 &nbsp;
 
