@@ -15,7 +15,7 @@ font-family: 'Nanum Gothic';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.statically.io/gh/fonts-archive/NanumGothic/main/NanumGothic.css"/>
+<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumGothic/main/NanumGothic.css'/>
 ```
 
 &nbsp;
