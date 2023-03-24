@@ -15,7 +15,7 @@ font-family: 'Nanum Gothic';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothic.css"/>
+<link rel="stylesheet" href="https://cdn.statically.io/gh/fonts-archive/NanumGothic/main/NanumGothic.css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothic.css');
+@import url('https://cdn.statically.io/gh/fonts-archive/NanumGothic/main/NanumGothic.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothic.css
+https://cdn.statically.io/gh/fonts-archive/NanumGothic/main/NanumGothic.css
 ```
